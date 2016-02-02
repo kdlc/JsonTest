@@ -1,0 +1,10 @@
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\bin\Debug\JsonTest.exe
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\bin\Debug\JsonTest.pdb
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\bin\Debug\JsonTest.xml
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.vbprojResolveAssemblyReference.cache
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.Form1.resources
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.Resources.resources
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.vbproj.GenerateResource.Cache
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.exe
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.xml
+C:\Users\Marcelo\AppData\Local\Temporary Projects\JsonTest\obj\Debug\JsonTest.pdb

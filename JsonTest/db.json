@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "CustomerID": 1,
+      "Name": "Marcelo Rojas",
+      "Telephone": "818-974-0000"
+    }
+  ],
+  "response": [
+    {
+      "status": "success"
+    }
+  ]
+}
